@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+kamiiiiiiiiii part 2
+=======
+kamiiiiiiiiiiiiiiiii
+>>>>>>> ebe0f448ffa8076156c0fe2bd3b7ca7e16418540
